@@ -1,3 +1,3 @@
 # exercice
 exercice sur git
-test
+je modifie pour faire mon premier commit
